@@ -1,0 +1,10 @@
+C:\Users\efebo\source\repos\EfeRPC Client\EfeRPC Client\bin\Debug\EfeRPC Client.exe.config
+C:\Users\efebo\source\repos\EfeRPC Client\EfeRPC Client\bin\Debug\EfeRPC Client.exe
+C:\Users\efebo\source\repos\EfeRPC Client\EfeRPC Client\bin\Debug\EfeRPC Client.pdb
+C:\Users\efebo\source\repos\EfeRPC Client\EfeRPC Client\obj\Debug\EfeRPC Client.csproj.AssemblyReference.cache
+C:\Users\efebo\source\repos\EfeRPC Client\EfeRPC Client\obj\Debug\EfeRPC_Client.Form1.resources
+C:\Users\efebo\source\repos\EfeRPC Client\EfeRPC Client\obj\Debug\EfeRPC_Client.Properties.Resources.resources
+C:\Users\efebo\source\repos\EfeRPC Client\EfeRPC Client\obj\Debug\EfeRPC Client.csproj.GenerateResource.cache
+C:\Users\efebo\source\repos\EfeRPC Client\EfeRPC Client\obj\Debug\EfeRPC Client.csproj.CoreCompileInputs.cache
+C:\Users\efebo\source\repos\EfeRPC Client\EfeRPC Client\obj\Debug\EfeRPC Client.exe
+C:\Users\efebo\source\repos\EfeRPC Client\EfeRPC Client\obj\Debug\EfeRPC Client.pdb

@@ -1,0 +1,22 @@
+;Auto-generated Diamond Directive File. Can be deleted without harm.
+.Set CabinetNameTemplate=C:\Users\efebo\source\repos\EfeRPC Client\EfeRPC Client\bin\Debug\~EfeRPC Client.CAB
+.Set CompressionType=LZX
+.Set CompressionLevel=7
+.Set InfFileName=C:\Users\efebo\source\repos\EfeRPC Client\EfeRPC Client\bin\Debug\~EfeRPC Client_LAYOUT.INF
+.Set RptFileName=C:\Users\efebo\source\repos\EfeRPC Client\EfeRPC Client\bin\Debug\~EfeRPC Client.RPT
+.Set MaxDiskSize=CDROM
+.Set ReservePerCabinetSize=0
+.Set InfCabinetLineFormat=*cab#*=Application Source Media,*cabfile*,0
+.Set Compress=on
+.Set CompressionMemory=21
+.Set DiskDirectoryTemplate=
+.Set Cabinet=ON
+.Set MaxCabinetSize=999999999
+.Set InfDiskHeader=
+.Set InfDiskLineFormat=
+.Set InfCabinetHeader=[SourceDisksNames]
+.Set InfFileHeader=
+.Set InfFileHeader1=[SourceDisksFiles]
+.Set InfFileLineFormat=*file*=*cab#*,,*size*,*csum*
+"C:\Users\efebo\OneDrive\Masaüstü\eferpc.exe"
+"C:\Users\efebo\source\repos\EfeRPC Client\EfeRPC Client\bin\Debug\EfeRPC Client.exe"
